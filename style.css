@@ -1,7 +1,7 @@
 /* GENERAL SETTINGS */
 @font-face {
     font-family: "Barlow";
-    src: url(/design/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.ttf);
+    src: url(./design/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.ttf);
 }
 :root{
 
